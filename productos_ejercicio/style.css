@@ -4,3 +4,16 @@
     padding: 20px;
     margin: 20px;
 }
+.btn{
+    background-color: purple;
+    color: blanchedalmond;
+    border-color: blanchedalmond;
+}
+.modal-content{
+    background-color: purple;
+    color: white;
+}
+.btn2{
+    background-color: blanchedalmond;
+    color: purple;
+}
